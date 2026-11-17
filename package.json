@@ -1,0 +1,17 @@
+{
+  "name": "pratibha-portfolio",
+  "version": "1.0.0",
+  "description": "Pratibha Dwivedi - MERN Full Stack Developer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "mern",
+    "react",
+    "developer"
+  ],
+  "author": "Pratibha Dwivedi",
+  "license": "MIT"
+}
